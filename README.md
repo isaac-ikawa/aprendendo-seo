@@ -10,7 +10,7 @@ Este é um site fictício para o Café Ikawa, especializado em café artesanal e
 ### Meta Tags
 O código HTML inclui várias meta tags para melhorar o SEO e a responsividade do site.
 
-#### SEO aplicado no código
+#### Aplicações de SEO nos códigos
 ```html
 Meta Description
 Descreve o conteúdo do site e é exibida nos resultados de busca, ajudando a aumentar a taxa de cliques.
